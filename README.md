@@ -113,8 +113,8 @@ int main(void)
   while (1)
   {
 
-	  printf("Aravindan T \n");
-	  printf("2305001003 \n");
+	  printf("Boopathy S T \n");
+	  printf("2305003002 \n");
 	  HAL_Delay(5000);
 
   }
