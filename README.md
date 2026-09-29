@@ -4,7 +4,7 @@
 
 **ROLL NO: 2305003002**
 
-**DEPARTMENT:CSE**
+**DEPARTMENT:AIML**
 
 ## Aim:
 
